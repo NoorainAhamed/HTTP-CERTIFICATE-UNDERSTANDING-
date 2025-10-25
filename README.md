@@ -2,11 +2,11 @@
 A hands-on exploration of how GitHub repositories establish secure and verifiable connections between contributors, commits, and the codebase. This project focuses on understanding repository signing, commit verification, and the mechanisms that ensure authenticity and integrity in software collaboration.
 
 # verification on Linux ( centOS )
-install openssl
-basic information 
-extarct certificate 
-save certificate 
-check validity
+install openssl ,
+basic information ,
+extarct certificate ,
+save certificate ,
+check validity ,
 verify 
 
 # Click the padlock icon 🔒 in the address bar.
